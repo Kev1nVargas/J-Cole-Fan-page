@@ -1,0 +1,52 @@
+img {
+    height: 150px;
+    border: 5px solid red;
+    padding: 1px;
+    margin: 1px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.hi {
+    color: blue;
+    display: flex;
+    justify-content: space-between;
+    border: 5px red solid;
+
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+
+h2 {
+    color: green;
+    border: 10px solid yellow;
+    margin-right: 550px;
+}
+
+.Cold {
+color:green;
+
+}
+
+.all{
+display:flex;
+ justify-content:space-between;
+
+}
+
+.there{
+    color:orange;
+}
+
+.cool{
+    color:green;
+    
+}
+
+
+
+
